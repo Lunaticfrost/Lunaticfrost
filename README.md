@@ -10,7 +10,7 @@ I'm a software engineer based in Bengaluru, India, with a passion for building e
 
 ### 👨‍💻 About Me
 
-- 🏢 I’m currently building the future of work as a **Software Engineer at Smartsheet**.
+- 🏢 I’m currently building the future of work as a **Software Engineer**.
 - 🌱 I’m focused on continuous learning and staying up-to-date with the latest in tech.
 - 💬 Ask me about backend systems, software architecture, or anything tech-related!
 - 🏃‍♂️ Outside of coding, I'm passionate about fitness and athletics.
@@ -24,7 +24,7 @@ I'm a software engineer based in Bengaluru, India, with a passion for building e
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,spring,docker,kubernetes,aws,git,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,spring,docker,kubernetes,aws,git,mysql,mongodb,cpp,nextjs" />
   </a>
 </p>
 
