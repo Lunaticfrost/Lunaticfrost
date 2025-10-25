@@ -1,7 +1,7 @@
 # Hi there, I'm Sahil 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1CA6F2&width=435&lines=Software+Engineer;Always+Learning+and+Growing;Passionate+Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1CA6F2&width=435&lines=Software+Engineer;Always+Building;Passionate+Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 I'm a software engineer based in Bengaluru, India, with a passion for building elegant solutions and diving deep into technology.
