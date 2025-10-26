@@ -10,8 +10,6 @@ I'm a software engineer based in Bengaluru, India, with a passion for building e
 
 ### 🛠️ Languages and Tools:
 
-*This is a suggested list. Feel free to update it with your specific tech stack!*
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,spring,docker,kubernetes,aws,git,mysql,mongodb,cpp,nextjs" />
